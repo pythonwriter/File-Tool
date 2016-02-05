@@ -1,2 +1,1 @@
-# File-Tool
-file maker/reader in python 3
+This was made for fun and isn't meant to be a full fledged programm.
