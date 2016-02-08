@@ -1,4 +1,6 @@
+'''python
 #pytyhon 3
 import os
 path = input("path: ")
 os.startfile(path)
+'''
